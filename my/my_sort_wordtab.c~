@@ -1,0 +1,13 @@
+/*
+** my_sort_wordtab.c for trier un tab de ;ot par char ascii in /u/all/sundas_c/cu/rendu/lib/my
+** 
+** Made by christophe sundas
+** Login   <sundas_c@epitech.net>
+** 
+** Started on  Tue Oct 21 21:48:14 2008 christophe sundas
+** Last update Tue Oct 21 21:48:33 2008 christophe sundas
+*/
+
+int     my_sort_wordtab(char **tab)
+{
+}
